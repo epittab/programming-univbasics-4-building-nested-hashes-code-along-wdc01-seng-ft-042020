@@ -6,9 +6,12 @@ def second_challenge
         age: "53"
       },
       matriarch: {
+        name: "Lady Montague",
+        age: "54"
+      },
+      hero:{
         
       },
-      hero:{},
       hero_friends: []
       }, 
     :capulet => {
