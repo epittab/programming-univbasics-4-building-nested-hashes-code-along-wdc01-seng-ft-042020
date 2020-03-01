@@ -10,7 +10,9 @@ def second_challenge
         age: "54"
       },
       hero:{
-        
+        name: "Romeo",
+        age: "15",
+        status: "Alive"
       },
       hero_friends: []
       }, 
