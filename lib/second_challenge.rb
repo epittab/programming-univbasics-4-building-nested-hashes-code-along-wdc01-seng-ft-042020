@@ -14,7 +14,18 @@ def second_challenge
         age: "15",
         status: "Alive"
       },
-      hero_friends: []
+      hero_friends: [
+        {
+                name: "Benvolio",
+                age: "17",
+                status: "worried"
+            },
+            {
+                name: "Mercutio",
+                age: "18",
+                status: "hot-headed"
+            }
+        ]
       }, 
     :capulet => {
       patriarch: {},
