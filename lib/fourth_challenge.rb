@@ -8,12 +8,12 @@ def fourth_challenge
         {
                 name: "Benvolio",
                 age: "17",
-                status: "worried"
+                attitude: "worried"
             },
             {
                 name: "Mercutio",
                 age: "18",
-                status: "hot-headed"
+                attitude: "hot-headed"
             }
       ]
    }, 
@@ -25,12 +25,12 @@ def fourth_challenge
         {
                 name: "Steven",
                 age: "30",
-                status: "confused"
+                attitude: "confused"
             },
             {
                 name: "Nurse",
                 age: "44",
-                status: "worried"
+                attitude: "worried"
             }
       ]
    }
